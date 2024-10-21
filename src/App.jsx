@@ -8,8 +8,8 @@ import { useState } from 'react'
 // import Prod from './props/first'
 
 // import Parent from './props/parent'
-import Heading from './Resutrant/heading'
-
+// import Heading from './Resutrant/heading'
+import Image from './images/image'
 
 function App() {
 
@@ -23,7 +23,8 @@ function App() {
       {/* <Parent></Parent> */}
       {/* <Condition/> */}
 
-      <Heading/>
+      {/* <Heading/> */}
+      <Image/>
 
     </>
     
