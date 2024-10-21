@@ -4,10 +4,11 @@ import { useState } from 'react'
 // import './App.css'
 // import Karthik from './initial'
 
-import Condition from './condional rendering/condion'
+// import Condition from './condional rendering/condion'
 // import Prod from './props/first'
 
 // import Parent from './props/parent'
+import Heading from './Resutrant/heading'
 
 
 function App() {
@@ -20,7 +21,9 @@ function App() {
       {/* <Prod/> */}
 
       {/* <Parent></Parent> */}
-      <Condition/>
+      {/* <Condition/> */}
+
+      <Heading/>
 
     </>
     
